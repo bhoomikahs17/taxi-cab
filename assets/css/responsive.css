@@ -1,0 +1,217 @@
+@media only screen and (max-width: 375px) {
+    .header-nav-area .site-logo {
+        padding: 10px 0;
+        position: relative;
+        left: 0px;
+      }
+      .header-nav-area .site-logo img{
+        height: 45px;
+      }
+     /* .element {
+      background-position: unset;
+      width: 100%;
+      height: 75%;
+      opacity: 1;
+      visibility: inherit;
+      z-index: 20;
+    }
+    .vehicle-section-divider {
+      border-bottom: 1px solid #434343;
+      padding: 8px 0;
+      overflow: hidden;
+      position: relative;
+    } */
+    .menu-contact-details{
+      display: none;
+    }
+    .menu-area-btn
+    {
+      display: none;
+    }
+    .service-block {
+      width: 50%;
+      display: inline-block;
+    }
+    .slider-style-two .owl-nav.disabled {
+      display: block;
+    }
+    .vehicle-bottom-content {
+      padding: 10px;
+      margin-top: -1px;
+      overflow: hidden;
+      border-radius: 0 0 5px 5px;
+      position: relative;
+      padding-left: 8px;
+    }
+    .vehicle-bottom-content .vehicle-title {
+      font-size: 20px;
+      font-weight: 600;
+      margin-top: 10px;
+      margin-bottom: 4px;
+      text-align: center;
+    }
+    .vehicle-bottom-content .meta-item p {
+      font-size: 16px;
+      font-weight: 500;
+      text-align: center !important;
+      margin-bottom: 0px !important;
+    }
+    .vehicle-section-divider{
+      display: none;
+    }
+    .slider-block{
+      display: none;
+    }
+    .highlight {
+      font-weight: 600;
+      font-size: 24px;
+    }
+    .milestone-details {
+      font-weight: 500;
+      font-size: 15px;
+    }
+    .view-all-item{
+      display: none;
+    }
+    .slider-style-two .owl-nav.disabled > div {
+      margin-bottom: 12px;}
+      .fun-facts-block {
+        padding: 12px 0px;
+      }
+      .footer-block .widget .widget-title {
+        font-size: 18px;
+        margin-bottom: 10px;
+        padding-left: 15px;
+      }
+      .extra-big-title {
+        font-size: 20px;
+        position: relative;
+top: -35px;
+padding-top: 15px;
+      }
+      
+      
+      .vehicle-bottom-content .vehicle-title {
+        font-size: 12px !important;
+      }
+   
+    }
+    .heading-content.style-one.border h2.title {
+      position: relative;
+      margin-bottom: 0px;
+    }
+    .heading-content.style-one.border h2.title::before {
+      background-color: #fca22a;
+      width: 80px;
+      height: 5px;
+      bottom: -10px;
+    }
+    .heading-content.style-one .title {
+      font-size: 24px;
+      font-weight: 700;
+    }
+      .heading-content.style-two .title {
+        font-size: 30px;
+      }
+      .heading-content.style-two .subtitle {
+        font-size: 14px;
+      }
+      p {
+          margin-bottom: 0px;
+          margin-bottom: 1.875em;
+          line-height: 1.65em;
+          font-size: 14px;
+      }
+      .wellcome-content-left p {
+        text-align: justify;
+      }
+      .wellcome-block .wellcome-content-left {
+        margin-top: 10px;
+      }
+      .vehicle-bottom-content .vehicle-title {
+        font-size: 17px;
+      }
+      
+      .service-block {
+        margin-bottom: 20px;
+      }
+      
+      .view-btn{
+        position: relative;
+        top: -37px;
+      }
+      .service-block .service-title {
+        font-size: 16px;
+        font-weight: 500;
+      }
+      .post .post-content .entry-title {
+        font-size: 18px;
+        font-weight: 600;
+        margin-top: 8px;
+      }
+
+      
+      .fun-facts-block {
+        padding: 30px 0px;
+        background-size: none;
+      }
+      
+      
+
+      /* About Us */
+      .header-nav-area .site-logo{
+        left: 0px;
+        position: none;
+      }
+      .extra-big-title {
+        font-size: 20px;
+        position: relative;
+top: -35px;
+      }
+      .about-content-left p {
+        text-align: justify;
+        line-height: 1.65em;
+        position: relative;
+top: -35px;
+      }  
+      
+      
+      /*fleets */
+     
+      
+      .vehicle-content {
+        margin-bottom: 15px;
+      }
+
+      /* contact us */
+      .mr-top-30 {
+        margin-top: 20px;
+      }
+      .contact-us-area .contact-us-content-right .from-title {
+        margin-top: 0;
+        font-weight: 600;
+      }
+      .contact-us-area .contact-us-content-right i {
+        font-size: 40px;
+        position: relative;
+        top: 20px;
+        color: #ffcc00;
+      }
+      .input-content h4 {
+        font-size: 24px;
+        text-align: center;
+        margin-bottom: 45px;
+        font-weight: 500;
+        color: #232c3b;
+      }
+      .map-block .heading-content {
+        margin-bottom: 18px;
+        position: relative;
+        top: -64px;
+      }
+      .header-map-content iframe {
+        display: block;
+        position: relative;
+        pointer-events: none;
+        top: -45px;
+      }
